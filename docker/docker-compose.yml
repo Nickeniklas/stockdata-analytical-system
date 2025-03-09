@@ -1,0 +1,51 @@
+services:
+  spark-master:
+    image: bitnami/spark:latest
+    container_name: spark-master
+    environment:
+      - SPARK_MODE=master
+      - SPARK_MASTER_HOST=spark-master
+    ports:
+      - "8080:8080"
+      - "7077:7077"
+
+  spark-worker:
+    image: bitnami/spark:latest
+    container_name: spark-worker
+    environment:
+      - JAVA_HOME=/opt/bitnami/java
+      - SPARK_MODE=worker
+      - SPARK_MASTER=spark://spark-master:7077
+    depends_on:
+      - spark-master
+
+  pyspark-app:
+    build: .  # build app from Dockerfile
+    container_name: pyspark-app
+    environment:
+      - SPARK_MASTER=spark://spark-master:7077
+    volumes:
+      - .:/app  # Mount the current directory to /app
+      - ./output:/app/output
+    depends_on:
+      - spark-master
+      
+  prophet:
+    build: .
+    volumes:
+      - .:/app  # Mount the current directory to /app
+      - ./output:/app/output
+    depends_on:
+      - pyspark-app  # Wait for Spark-App to finish before starting Prophet
+    command: ["sh", "-c", "sleep 10 && python3 /app/forecast.py"] # wait ^
+
+  streamlit:
+    build: .
+    container_name: streamlit
+    depends_on:
+      - prophet
+    ports:
+      - "8501:8501"
+    volumes:
+      - .:/app
+    command: ["sh", "-c", "sleep 15 && streamlit run /app/visualize.py"]

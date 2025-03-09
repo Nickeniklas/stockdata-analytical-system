@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nikla_000/Documents/Skola/2025/ASD25/final/spark_docker/mlruns/563136611418579380/55a91007036c418692f00be96ac25d2c/artifacts
+end_time: 1741547440218
+entry_point_name: ''
+experiment_id: '563136611418579380'
+lifecycle_stage: active
+run_id: 55a91007036c418692f00be96ac25d2c
+run_name: colorful-croc-110
+run_uuid: 55a91007036c418692f00be96ac25d2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741547438911
+status: 3
+tags: []
+user_id: root

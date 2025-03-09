@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nikla_000/Documents/Skola/2025/ASD25/final/spark_docker/mlruns/563136611418579380/699ce4c3e7b84fecbc099c0bb5dc6c3d/artifacts
+end_time: 1741544275447
+entry_point_name: ''
+experiment_id: '563136611418579380'
+lifecycle_stage: active
+run_id: 699ce4c3e7b84fecbc099c0bb5dc6c3d
+run_name: stately-zebra-130
+run_uuid: 699ce4c3e7b84fecbc099c0bb5dc6c3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741544274125
+status: 4
+tags: []
+user_id: Nikla_000

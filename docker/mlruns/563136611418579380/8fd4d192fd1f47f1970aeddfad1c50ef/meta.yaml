@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nikla_000/Documents/Skola/2025/ASD25/final/spark_docker/mlruns/563136611418579380/8fd4d192fd1f47f1970aeddfad1c50ef/artifacts
+end_time: 1741544345632
+entry_point_name: ''
+experiment_id: '563136611418579380'
+lifecycle_stage: active
+run_id: 8fd4d192fd1f47f1970aeddfad1c50ef
+run_name: fun-crow-627
+run_uuid: 8fd4d192fd1f47f1970aeddfad1c50ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741544344339
+status: 4
+tags: []
+user_id: Nikla_000

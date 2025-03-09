@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nikla_000/Documents/Skola/2025/ASD25/final/spark_docker/mlruns/563136611418579380/3734c49abeef4f39809c4186aaf0038b/artifacts
+end_time: 1741550991002
+entry_point_name: ''
+experiment_id: '563136611418579380'
+lifecycle_stage: active
+run_id: 3734c49abeef4f39809c4186aaf0038b
+run_name: caring-doe-39
+run_uuid: 3734c49abeef4f39809c4186aaf0038b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741550989794
+status: 3
+tags: []
+user_id: root

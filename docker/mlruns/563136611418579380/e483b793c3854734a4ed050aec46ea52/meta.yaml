@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nikla_000/Documents/Skola/2025/ASD25/final/spark_docker/mlruns/563136611418579380/e483b793c3854734a4ed050aec46ea52/artifacts
+end_time: 1741547654627
+entry_point_name: ''
+experiment_id: '563136611418579380'
+lifecycle_stage: active
+run_id: e483b793c3854734a4ed050aec46ea52
+run_name: luminous-shrike-537
+run_uuid: e483b793c3854734a4ed050aec46ea52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741547653395
+status: 4
+tags: []
+user_id: root

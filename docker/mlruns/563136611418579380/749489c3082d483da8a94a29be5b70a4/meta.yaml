@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nikla_000/Documents/Skola/2025/ASD25/final/spark_docker/mlruns/563136611418579380/749489c3082d483da8a94a29be5b70a4/artifacts
+end_time: 1741544239311
+entry_point_name: ''
+experiment_id: '563136611418579380'
+lifecycle_stage: active
+run_id: 749489c3082d483da8a94a29be5b70a4
+run_name: peaceful-goose-185
+run_uuid: 749489c3082d483da8a94a29be5b70a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741544237941
+status: 4
+tags: []
+user_id: Nikla_000

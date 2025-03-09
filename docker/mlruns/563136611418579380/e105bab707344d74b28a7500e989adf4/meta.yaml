@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nikla_000/Documents/Skola/2025/ASD25/final/spark_docker/mlruns/563136611418579380/e105bab707344d74b28a7500e989adf4/artifacts
+end_time: 1741552124051
+entry_point_name: ''
+experiment_id: '563136611418579380'
+lifecycle_stage: active
+run_id: e105bab707344d74b28a7500e989adf4
+run_name: redolent-boar-798
+run_uuid: e105bab707344d74b28a7500e989adf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741552122837
+status: 3
+tags: []
+user_id: root

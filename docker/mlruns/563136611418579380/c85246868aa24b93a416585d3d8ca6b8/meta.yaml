@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nikla_000/Documents/Skola/2025/ASD25/final/spark_docker/mlruns/563136611418579380/c85246868aa24b93a416585d3d8ca6b8/artifacts
+end_time: 1741551665211
+entry_point_name: ''
+experiment_id: '563136611418579380'
+lifecycle_stage: active
+run_id: c85246868aa24b93a416585d3d8ca6b8
+run_name: capable-shrike-833
+run_uuid: c85246868aa24b93a416585d3d8ca6b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741551664032
+status: 3
+tags: []
+user_id: root

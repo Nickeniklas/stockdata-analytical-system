@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nikla_000/Documents/Skola/2025/ASD25/final/spark_docker/mlruns/563136611418579380/c2008bdc66b24066827b07a2fc2426cd/artifacts
+end_time: 1741549271105
+entry_point_name: ''
+experiment_id: '563136611418579380'
+lifecycle_stage: active
+run_id: c2008bdc66b24066827b07a2fc2426cd
+run_name: thoughtful-finch-654
+run_uuid: c2008bdc66b24066827b07a2fc2426cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741549269785
+status: 3
+tags: []
+user_id: root

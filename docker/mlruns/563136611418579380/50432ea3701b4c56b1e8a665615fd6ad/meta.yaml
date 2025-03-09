@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nikla_000/Documents/Skola/2025/ASD25/final/spark_docker/mlruns/563136611418579380/50432ea3701b4c56b1e8a665615fd6ad/artifacts
+end_time: 1741547598070
+entry_point_name: ''
+experiment_id: '563136611418579380'
+lifecycle_stage: active
+run_id: 50432ea3701b4c56b1e8a665615fd6ad
+run_name: gaudy-lamb-90
+run_uuid: 50432ea3701b4c56b1e8a665615fd6ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741547596814
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nikla_000/Documents/Skola/2025/ASD25/final/spark_docker/mlruns/563136611418579380/c27d10f3d28e409abefdac8273a28526/artifacts
+end_time: 1741551562800
+entry_point_name: ''
+experiment_id: '563136611418579380'
+lifecycle_stage: active
+run_id: c27d10f3d28e409abefdac8273a28526
+run_name: selective-crow-920
+run_uuid: c27d10f3d28e409abefdac8273a28526
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741551561608
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nikla_000/Documents/Skola/2025/ASD25/final/spark_docker/mlruns/563136611418579380/5b4e715a03ea40a4a88c61aa2268890f/artifacts
+end_time: 1741550084041
+entry_point_name: ''
+experiment_id: '563136611418579380'
+lifecycle_stage: active
+run_id: 5b4e715a03ea40a4a88c61aa2268890f
+run_name: rumbling-sloth-309
+run_uuid: 5b4e715a03ea40a4a88c61aa2268890f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741550082678
+status: 3
+tags: []
+user_id: root

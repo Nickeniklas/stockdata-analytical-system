@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nikla_000/Documents/Skola/2025/ASD25/final/spark_docker/mlruns/563136611418579380/3461e6cef54b4f6a9166b453407b80ec/artifacts
+end_time: 1741550685395
+entry_point_name: ''
+experiment_id: '563136611418579380'
+lifecycle_stage: active
+run_id: 3461e6cef54b4f6a9166b453407b80ec
+run_name: bedecked-hawk-595
+run_uuid: 3461e6cef54b4f6a9166b453407b80ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741550683984
+status: 3
+tags: []
+user_id: root

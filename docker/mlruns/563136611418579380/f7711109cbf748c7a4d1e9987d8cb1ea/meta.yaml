@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nikla_000/Documents/Skola/2025/ASD25/final/spark_docker/mlruns/563136611418579380/f7711109cbf748c7a4d1e9987d8cb1ea/artifacts
+end_time: 1741549149363
+entry_point_name: ''
+experiment_id: '563136611418579380'
+lifecycle_stage: active
+run_id: f7711109cbf748c7a4d1e9987d8cb1ea
+run_name: gaudy-zebra-902
+run_uuid: f7711109cbf748c7a4d1e9987d8cb1ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741549148193
+status: 3
+tags: []
+user_id: root

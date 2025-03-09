@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nikla_000/Documents/Skola/2025/ASD25/final/spark_docker/mlruns/563136611418579380/4f62226b25fd450faebdc0d42e2e0f03/artifacts
+end_time: 1741544217307
+entry_point_name: ''
+experiment_id: '563136611418579380'
+lifecycle_stage: active
+run_id: 4f62226b25fd450faebdc0d42e2e0f03
+run_name: able-bird-265
+run_uuid: 4f62226b25fd450faebdc0d42e2e0f03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741544215932
+status: 4
+tags: []
+user_id: Nikla_000

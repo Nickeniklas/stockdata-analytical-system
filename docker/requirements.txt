@@ -1,0 +1,10 @@
+pyspark 
+yfinance 
+pandas 
+numpy 
+matplotlib 
+prophet 
+holidays 
+mlflow 
+streamlit
+plotly

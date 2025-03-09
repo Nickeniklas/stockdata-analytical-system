@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Nikla_000/Documents/Skola/2025/ASD25/final/spark_docker/mlruns/563136611418579380/8edff8127df044a3b1eb4bb785c1404e/artifacts
+end_time: 1741547719528
+entry_point_name: ''
+experiment_id: '563136611418579380'
+lifecycle_stage: active
+run_id: 8edff8127df044a3b1eb4bb785c1404e
+run_name: luxuriant-gnat-213
+run_uuid: 8edff8127df044a3b1eb4bb785c1404e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741547718191
+status: 3
+tags: []
+user_id: root
