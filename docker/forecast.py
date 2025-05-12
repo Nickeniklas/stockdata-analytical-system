@@ -56,8 +56,8 @@ with mlflow.start_run():
 
     # Define future dataframe
     future = model.make_future_dataframe(periods=90)
-    future["Volume_AAPL"] = df_pandas["Volume_AAPL"].mean()  # Replace with real/future data
-    future["volatility_7_days"] = df_pandas["volatility_7_days"].mean()
+    future["Volume_AAPL"] = df_pandas["Volume_AAPL"].mean()  # simple way of getting some future values
+    future["volatility_7_days"] = df_pandas["volatility_7_days"].mean() # just mean of older, works bad for long forecast
 
     # Make predictions
     forecast = model.predict(future)

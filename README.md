@@ -1,7 +1,7 @@
 # Stockdata Analytical System
 
 ## Tech stack
-**Docker, Python, yFinance, PySpark, Prophet, Streamlit** 
+**Docker, Python, yFinance, PySpark, MLFlow, Prophet, Streamlit** 
 
 ## Project description
 Get data from Yahoo Finance, with yfinance python module.
